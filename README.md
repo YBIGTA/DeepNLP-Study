@@ -7,6 +7,7 @@
 ## 2018년 1~2월 스터디 목표
 
 - 이론 - 조재민님의 챗봇을 위한 딥러닝 강의 자료 공부하기
+  - 논문 발제 모음 : [PAPERS REVIEWED](https://github.com/YBIGTA/DeepNLP-Study/wiki/%5BPAPERS-REVIEWED%5D)
   - [Day 01 Introduction to Chatbot](https://www.slideshare.net/JaeminCho6/dl-chatbot-seminar-day-01-80593691)
   - [Day 02 Text Classification with CNN/RNN](https://www.slideshare.net/JaeminCho6/dl-chatbot-seminar-day-02)
   - [Day 03 Conversation Modeling with Seq2Seq / Attention](https://www.slideshare.net/JaeminCho6/dl-chatbot-seminar-day-03)
