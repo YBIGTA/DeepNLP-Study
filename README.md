@@ -21,7 +21,7 @@
 * 모든 스터디 자료는 이 repository를 통해 공유하는 것을 원칙으로 합니다.
 * Wiki
   * 스터디 계획, 일정 등의 문서를 작성합니다.
-    * [스터디 세부 계획](https://github.com/YBIGTA/DeepNLP-Study/wiki/스터디-세부-계획-(2018년-1~2월))
+    * [스터디 세부 계획](https://github.com/YBIGTA/DeepNLP-Study/wiki/%5B%EC%8A%A4%ED%84%B0%EB%94%94-%EC%84%B8%EB%B6%80-%EA%B3%84%ED%9A%8D-(2018%EB%85%84-1~2%EC%9B%94)%5D)
   * 발제를 위한 논문 요약 및 설명 등도 공유합니다.
 * Projects
   * 논문 구현 프로젝트 진행 상황을 공유합니다.
