@@ -9,7 +9,7 @@
   - 매주 모든 사람이 두 강의씩 들으며, 그 중 두 명이 한 강의씩 맡아 발제한다.
   - 발제하지 않는 나머지 사람들은 질문을 하고 발제자는 답변을 한다.
 - 강의마다 나온 질문과 답변은 다음 위키 페이지에 모아서 정리한다.
-  - [Q&A-for-CMU-Neural-Networks-for-NLP-2018](https://github.com/YBIGTA/DeepNLP-Study/wiki/Q&A-for-CMU-Neural-Networks-for-NLP-2018)
+  - [Q&A-for-CMU-Neural-Networks-for-NLP-2018](https://github.com/YBIGTA/DeepNLP-Study/wiki/%5BQ&A-for-CMU-Neural-Networks-for-NLP-2018%5D)
 - 참여자 : 김우정, 김지혁, 박성남, 조용래
 
 
